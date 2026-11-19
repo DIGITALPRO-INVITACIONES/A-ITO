@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Digital Pro//Teofilo//ES
+BEGIN:VEVENT
+UID:teofilo-20261124@digitalpro
+DTSTAMP:20261119T020000Z
+DTSTART:20261124T210000Z
+SUMMARY:Primer añito y corte de cabello de Teófilo
+LOCATION:Casa de mamá Chila
+DESCRIPTION:¡Celebremos juntos! Confirmación: +59162731124.
+END:VEVENT
+END:VCALENDAR
